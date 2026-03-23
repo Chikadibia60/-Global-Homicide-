@@ -1,0 +1,201 @@
+Customer_ID,Age,Annual_Income_k$,Spending_Score,Membership_Years,Purchase_Frequency,Last_Purchase_Days,Region,Preferred_Device,Payment_Method
+1001,56,89,47,7,6,273,North,Mobile,PayPal
+1002,69,91,86,14,18,231,South,Mobile,PayPal
+1003,46,46,23,5,5,86,East,Tablet,Credit Card
+1004,32,28,66,12,47,126,East,Tablet,PayPal
+1005,60,81,27,1,25,300,East,Tablet,Credit Card
+1006,25,56,2,7,2,25,East,Tablet,Cash
+1007,38,116,90,13,10,145,West,Tablet,Cash
+1008,56,70,17,7,30,13,West,Mobile,PayPal
+1009,36,63,33,9,45,212,South,Desktop,Credit Card
+1010,40,43,9,3,5,25,East,Mobile,Credit Card
+1011,28,98,43,9,33,68,East,Tablet,PayPal
+1012,28,78,48,14,1,67,North,Mobile,Cash
+1013,41,51,39,1,18,233,West,Tablet,PayPal
+1014,53,115,93,1,32,109,East,Tablet,Cash
+1015,57,107,42,14,47,146,South,Mobile,Credit Card
+1016,41,71,26,4,49,111,South,Tablet,Cash
+1017,20,81,99,9,11,228,West,Desktop,PayPal
+1018,39,77,50,6,21,111,South,Tablet,Credit Card
+1019,19,71,25,13,26,34,South,Desktop,PayPal
+1020,41,31,24,11,25,111,West,Desktop,PayPal
+1021,61,58,13,3,22,264,East,Tablet,Cash
+1022,47,21,60,1,27,236,East,Mobile,PayPal
+1023,55,22,7,4,49,83,South,Desktop,Cash
+1024,19,75,57,12,13,42,South,Mobile,Credit Card
+1025,38,100,36,13,33,101,East,Desktop,Cash
+1026,50,78,45,9,34,6,West,Tablet,Credit Card
+1027,29,21,20,3,41,180,South,Tablet,Cash
+1028,39,21,65,12,35,282,North,Desktop,PayPal
+1029,61,111,8,9,1,320,West,Tablet,Cash
+1030,42,73,16,7,21,226,South,Desktop,Cash
+1031,66,106,14,12,48,315,South,Tablet,Credit Card
+1032,44,115,76,14,6,229,North,Mobile,PayPal
+1033,59,116,87,4,28,289,North,Tablet,Cash
+1034,45,20,15,3,17,150,East,Mobile,PayPal
+1035,33,38,92,10,5,277,West,Tablet,Cash
+1036,32,21,98,5,31,198,West,Mobile,Cash
+1037,64,72,66,5,5,70,East,Tablet,PayPal
+1038,68,63,32,3,38,112,West,Mobile,Cash
+1039,61,109,87,12,3,4,West,Desktop,PayPal
+1040,69,51,63,9,23,350,West,Desktop,Cash
+1041,20,89,86,4,37,331,West,Mobile,Credit Card
+1042,54,51,51,11,37,318,West,Tablet,PayPal
+1043,68,87,25,5,10,350,North,Mobile,Cash
+1044,24,74,58,4,10,95,West,Tablet,Cash
+1045,38,94,63,5,19,152,North,Desktop,Credit Card
+1046,26,75,62,7,17,311,West,Tablet,PayPal
+1047,56,36,22,9,21,137,East,Desktop,Cash
+1048,35,57,58,7,14,247,South,Tablet,Credit Card
+1049,21,43,58,13,9,243,North,Tablet,Cash
+1050,42,88,86,5,46,31,West,Tablet,PayPal
+1051,31,117,49,10,1,40,East,Mobile,Cash
+1052,67,89,52,10,45,229,South,Mobile,Cash
+1053,26,105,42,7,13,36,North,Desktop,Cash
+1054,43,30,70,14,4,223,South,Desktop,Cash
+1055,19,35,15,10,1,6,East,Mobile,Credit Card
+1056,37,116,54,5,49,322,North,Desktop,Credit Card
+1057,45,92,60,3,40,220,South,Mobile,PayPal
+1058,64,78,97,7,32,75,West,Tablet,Credit Card
+1059,24,89,8,13,34,4,North,Desktop,Credit Card
+1060,61,99,53,11,28,335,South,Desktop,PayPal
+1061,25,112,60,11,31,134,East,Mobile,Credit Card
+1062,64,22,5,2,8,118,East,Desktop,Credit Card
+1063,52,39,68,12,39,94,North,Desktop,PayPal
+1064,31,78,6,9,26,62,South,Tablet,PayPal
+1065,34,55,96,10,34,194,North,Desktop,PayPal
+1066,53,38,94,10,3,335,North,Tablet,Cash
+1067,67,109,47,12,12,203,South,Mobile,Cash
+1068,57,86,99,1,1,26,South,Desktop,PayPal
+1069,21,38,55,13,44,173,West,Tablet,PayPal
+1070,19,39,40,6,5,300,South,Mobile,PayPal
+1071,23,115,52,7,30,133,East,Desktop,Cash
+1072,59,90,16,14,30,326,North,Mobile,Cash
+1073,21,71,13,13,17,118,North,Desktop,Credit Card
+1074,46,52,30,8,48,324,East,Mobile,Credit Card
+1075,35,59,19,10,47,275,South,Mobile,PayPal
+1076,43,58,17,9,23,212,East,Tablet,Cash
+1077,61,101,63,2,15,225,East,Mobile,Cash
+1078,51,20,19,11,37,20,West,Desktop,Cash
+1079,27,30,92,10,21,113,East,Desktop,PayPal
+1080,53,111,58,2,14,140,North,Tablet,Credit Card
+1081,31,76,55,5,2,47,East,Desktop,PayPal
+1082,48,108,90,13,11,1,North,Desktop,Credit Card
+1083,65,69,90,5,39,90,North,Desktop,Credit Card
+1084,32,42,62,6,38,142,North,Mobile,PayPal
+1085,25,50,23,3,34,320,South,Mobile,Credit Card
+1086,31,113,9,8,38,38,West,Desktop,Credit Card
+1087,40,61,12,13,34,293,North,Tablet,Cash
+1088,57,118,1,1,18,139,North,Mobile,Credit Card
+1089,38,26,58,6,30,356,South,Tablet,PayPal
+1090,33,35,1,4,15,333,North,Desktop,PayPal
+1091,62,109,34,1,27,259,East,Desktop,Credit Card
+1092,35,79,96,7,34,161,East,Mobile,Cash
+1093,64,21,48,9,38,178,West,Desktop,Cash
+1094,41,20,89,13,33,10,North,Mobile,Credit Card
+1095,43,67,1,4,24,261,South,Desktop,Credit Card
+1096,42,31,16,4,15,138,East,Desktop,PayPal
+1097,62,88,61,6,30,172,South,Mobile,Credit Card
+1098,58,56,64,12,42,13,South,Mobile,Cash
+1099,46,51,63,3,17,168,East,Mobile,Credit Card
+1100,32,28,69,13,5,130,South,Desktop,PayPal
+1101,62,118,22,12,29,84,East,Desktop,PayPal
+1102,18,38,93,6,4,321,South,Tablet,PayPal
+1103,42,67,67,7,10,319,East,Mobile,PayPal
+1104,24,99,76,11,17,101,North,Desktop,PayPal
+1105,26,22,26,10,10,329,West,Desktop,Credit Card
+1106,41,39,16,10,17,273,East,Mobile,Credit Card
+1107,18,43,51,3,20,265,East,Tablet,Credit Card
+1108,61,73,86,7,24,38,West,Mobile,Credit Card
+1109,25,52,57,14,5,94,East,Tablet,PayPal
+1110,41,43,29,3,34,95,East,Desktop,Cash
+1111,28,94,78,13,6,305,South,Tablet,Credit Card
+1112,68,91,92,13,2,69,West,Desktop,Cash
+1113,34,55,69,2,13,318,North,Mobile,Credit Card
+1114,25,57,47,12,43,236,East,Mobile,Credit Card
+1115,52,103,94,14,43,334,West,Mobile,Cash
+1116,52,118,62,10,48,137,South,Tablet,PayPal
+1117,50,108,69,4,11,76,North,Desktop,Credit Card
+1118,22,118,76,12,47,35,West,Mobile,Credit Card
+1119,59,44,16,8,23,1,North,Mobile,Credit Card
+1120,56,112,90,13,16,296,North,Desktop,Cash
+1121,58,37,90,9,31,320,North,Mobile,PayPal
+1122,45,101,48,7,11,60,East,Desktop,Cash
+1123,24,85,85,1,16,320,East,Desktop,Cash
+1124,26,73,39,3,8,349,South,Desktop,PayPal
+1125,25,54,33,13,4,328,South,Desktop,Cash
+1126,29,99,94,12,40,267,West,Desktop,PayPal
+1127,51,80,23,14,4,361,South,Tablet,Credit Card
+1128,50,60,10,9,25,229,North,Mobile,PayPal
+1129,65,119,69,12,3,270,North,Tablet,Credit Card
+1130,40,52,34,1,32,316,East,Mobile,Cash
+1131,41,87,52,9,3,286,North,Tablet,Cash
+1132,54,52,95,8,27,291,West,Desktop,Credit Card
+1133,52,33,10,1,29,213,North,Mobile,Cash
+1134,61,40,19,6,32,165,North,Mobile,PayPal
+1135,57,67,58,5,19,5,West,Tablet,Credit Card
+1136,39,39,96,6,21,339,South,Tablet,Cash
+1137,44,27,1,10,5,78,South,Mobile,Credit Card
+1138,52,26,69,12,18,62,West,Tablet,PayPal
+1139,18,86,4,13,28,132,East,Tablet,PayPal
+1140,52,36,16,13,42,89,North,Tablet,Cash
+1141,54,52,24,13,22,237,West,Desktop,PayPal
+1142,64,67,80,5,21,42,North,Desktop,Credit Card
+1143,31,95,2,6,6,89,East,Tablet,PayPal
+1144,20,78,92,5,1,296,North,Tablet,Credit Card
+1145,18,105,32,11,5,328,West,Desktop,Credit Card
+1146,22,41,91,12,41,295,North,Desktop,PayPal
+1147,43,49,84,5,12,104,South,Mobile,Cash
+1148,31,57,24,4,26,14,East,Mobile,PayPal
+1149,56,70,12,3,46,288,East,Desktop,Credit Card
+1150,44,73,50,3,34,179,East,Tablet,Credit Card
+1151,26,27,35,4,49,125,West,Tablet,PayPal
+1152,32,46,33,9,14,353,East,Tablet,Cash
+1153,32,46,33,2,26,23,South,Tablet,Cash
+1154,43,117,61,9,45,63,West,Mobile,Credit Card
+1155,59,40,51,1,27,143,South,Desktop,Credit Card
+1156,30,49,43,14,9,153,North,Tablet,Cash
+1157,68,116,12,1,26,145,North,Mobile,PayPal
+1158,49,47,67,5,47,225,North,Tablet,Credit Card
+1159,56,83,65,6,22,309,North,Desktop,Credit Card
+1160,66,116,33,6,47,104,South,Mobile,Cash
+1161,69,88,40,3,30,104,West,Desktop,PayPal
+1162,49,80,74,7,43,39,West,Desktop,Cash
+1163,21,67,43,9,48,198,East,Mobile,PayPal
+1164,47,38,44,11,17,134,South,Mobile,PayPal
+1165,54,23,29,12,26,67,North,Mobile,PayPal
+1166,40,54,13,10,36,179,South,Mobile,Credit Card
+1167,56,83,12,8,1,42,East,Mobile,Cash
+1168,62,68,95,6,8,15,East,Mobile,Cash
+1169,32,36,46,12,49,111,South,Mobile,PayPal
+1170,60,63,2,8,35,157,South,Tablet,Credit Card
+1171,46,111,35,12,15,289,South,Desktop,Credit Card
+1172,53,49,87,5,47,231,West,Mobile,Cash
+1173,30,112,81,8,22,157,North,Tablet,Credit Card
+1174,49,65,90,10,14,38,South,Tablet,Credit Card
+1175,24,25,8,12,26,97,South,Tablet,PayPal
+1176,68,118,93,4,28,289,South,Desktop,Credit Card
+1177,39,56,26,10,23,254,East,Mobile,PayPal
+1178,45,43,74,8,14,196,East,Tablet,Cash
+1179,19,112,90,10,24,86,West,Desktop,Credit Card
+1180,59,65,34,12,2,322,North,Desktop,Cash
+1181,62,72,7,2,45,10,West,Desktop,Cash
+1182,23,114,68,12,26,5,North,Tablet,Credit Card
+1183,45,118,58,12,14,123,East,Mobile,Credit Card
+1184,45,79,75,5,7,330,East,Tablet,Cash
+1185,61,116,29,9,3,353,East,Tablet,Credit Card
+1186,61,82,36,4,47,118,West,Mobile,PayPal
+1187,37,104,89,11,23,294,South,Mobile,PayPal
+1188,47,51,21,6,46,159,South,Mobile,Credit Card
+1189,28,106,36,1,43,303,East,Desktop,Cash
+1190,45,52,10,9,47,228,South,Mobile,Credit Card
+1191,42,86,73,1,45,216,South,Tablet,Credit Card
+1192,56,37,24,5,18,184,West,Mobile,Cash
+1193,50,44,64,4,38,15,North,Tablet,Cash
+1194,18,114,99,13,35,157,East,Desktop,PayPal
+1195,44,73,49,12,15,136,East,Tablet,Cash
+1196,69,77,99,13,25,261,West,Tablet,PayPal
+1197,30,86,36,13,37,157,West,Mobile,Cash
+1198,58,65,82,14,28,47,South,Mobile,Credit Card
+1199,20,43,96,3,10,324,East,Tablet,PayPal
+1200,56,51,24,13,39,332,North,Mobile,PayPal
